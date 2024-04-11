@@ -1,11 +1,16 @@
-### Hi there 👋
+### Prof. Dr.-Ing. Michael Protogerakis
+Hochschule Düsseldorf
+- 🔭 I’m currently working on process control engineering and networked automation systems
+- 🌱 I’m currently learning module type package development
+- 👯 I’m looking to collaborate on module type package development
+
 
 <!--
 **protogerakis/protogerakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on pro
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
